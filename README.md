@@ -23,7 +23,7 @@ PGADMIN_EMAIL
 PGADMIN_PASSWORD
 ```
 
-### `config/odoo.conf
+### `config/odoo.conf`
 
 Creo una carpeta llamada `config` con un archivo `odoo.conf` que será usado por el contenedor de `odoo`.
 
