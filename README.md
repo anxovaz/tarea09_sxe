@@ -162,17 +162,6 @@ Hago lo mismo que en el paso anterior pero sobre una factura:
 
 ## Incidencias
 
-### Divisa
-
-Aunque de idioma seleccionase Español y país España la divisa por defecto era el dólar, como estoy trabajando con `Demo Data` no me deja cambiarla directamente en `Configuración->Ajustes->Moneda`, para ello comprueba que la divisa `Euro` este activa.
-
-![divisa](./imgs/divisa.png)
-
-Para usar esta divisa en una factura simplemente la especifico en el campo divisa y actualizo la conversión de dólar a euro a día de hoy.
-
-![divisa2](./imgs/divisa2.png)
-
-
 
 | Fecha | Síntoma | Causa y solución |
 | --- | --- | --- |
