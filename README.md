@@ -94,6 +94,8 @@ Miro las propiedades de uno de los productos y relleno algunos de sus datos:
 
 ### (I -II) Contactos
 
+Creo los siguientes registros:
+
 ![compañía](./imgs/contacto-compañía.png)
 
 ![persona](./imgs/contacto-persona.png)
@@ -104,6 +106,8 @@ Creo la etiqueta cliente y añado el siguiente cliente:
 
 
 ### (III) Productos
+
+Creo los productos indicados:
 
 ![servicio](./imgs/Servicio.png)
 
